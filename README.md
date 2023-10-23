@@ -1,9 +1,12 @@
-# Java
+# Advanced Programming Practices
 
+## Info:-
 
-Contributing:-
+This Repo contains all the required materials for the Advanced Programming Practices subject.The Questions or the problem statements for the code are mentioned as comments in the repo.
 
-I welcome contributions from the community. If you want to contribute to the project, please follow these guidelines:
+## Contributing:-
+
+I welcome contributions from the community. If you want to contribute to the repository, please follow these guidelines:
 
 Fork the repository on GitHub.
 Create a new branch for your feature or bug fix.
