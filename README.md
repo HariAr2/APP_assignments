@@ -2,7 +2,7 @@
 
 ## Info:-
 
-This Repo contains all the required materials for the Advanced Programming Practices subject.The Questions or the problem statements for the code are mentioned as comments in the repo.
+This Repo contains all the required materials for the Advanced Programming Practices subject.The Questions or the problem statements for the code are mentioned as comments in the repo. 
 
 ## Contributing:-
 
