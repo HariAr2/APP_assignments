@@ -9,7 +9,7 @@ This Repo contains all the required materials for the Advanced Programming Pract
 I welcome contributions from the community. If you want to contribute to the repository, please follow these guidelines:
 
 Fork the repository on GitHub.
-Create a new branch for your feature or bug fix.
+Create a new branch for your feature or bug fix. 
 Make your changes, commit them, and push to your fork.
 Create a pull request with a clear description of your changes.
 Contact
