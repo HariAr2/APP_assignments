@@ -5,7 +5,7 @@
 
 
 '''1. Implement a python program to find the first largest and second largest numbers in an
-Array. Note: should not use any built-in sorting functions or libraries.'''
+Array. Note: should not use any built-in sorting functions or libraries.''' 
 
 def large(a):
     for i in range(0,len(a)):
